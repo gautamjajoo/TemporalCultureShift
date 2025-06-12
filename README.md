@@ -1,3 +1,5 @@
+![CineCulture Cover](cover.png)
+
 ## Motivation
 
 As Vision-Language Models (VLMs) become increasingly integrated into global applications, their ability to understand and adapt to diverse cultural contexts is more critical than ever. However, most current benchmarks treat culture as a static entity, overlooking how norms, aesthetics, and values evolve over time. This static approach risks perpetuating outdated stereotypes and marginalizing underrepresented communities. To address this, we introduce the **CineCulture Dataset** —a collection of annotated movie screenshots spanning decades and geographies—to systematically evaluate and improve the temporal cultural awareness of AI systems. By leveraging cinema’s rich, time-aligned record of societal change, CineCulture enables the study of how well AI models capture both the diversity and the evolution of cultural signals, helping to build fairer and more globally competent technologies.
