@@ -49,4 +49,8 @@ Track your points via our [contribution sheet](points.md) and update your score 
 
 All communication will happen through this GitHub repository. Please open issues or discussions for questions, and `Watch` the repository to stay updated on changes and announcements.
 
+## Current Maintainers
+
+The project is currently maintained by [Gautam Jajoo](https://gautamjajoo.github.io/), [Harsh Deshpande](https://harshsdeshpande.github.io/), [Hamna](https://github.com/HamAbid), [Pranjal Chitale](https://github.com/PranjalChitale), [Varun Gumma](https://varungumma.github.io/)
+
 ---
