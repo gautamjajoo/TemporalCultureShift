@@ -1,0 +1,211 @@
+[
+  {
+    "image_path": "image0.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male wears a formal blue Indo-Western suit (achkan or sherwani) with a matching cap. The female wears a white saree with a pearl necklace.",
+      "Architecture and Environment": "Interior of a lavishly decorated room, possibly a palace or haveli, with pink walls, ornate arches, and a large decorative mirror.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie. The male character is holding a small, ornate dagger, which is a cultural artifact. The decor of the room is highly artistic.",
+      "Time/Year context": "1955, the year the movie was released. The style is consistent with mid-1950s Indian cinema.",
+      "Objects and Artifacts": "Ornate mirror, framed paintings, decorative dagger."
+    }
+  },
+  {
+    "image_path": "image1.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male wears a yellow and white striped kurta. The female wears a printed green saree with a red border.",
+      "Architecture and Environment": "Indoor setting of a traditional or rural home with earthen-toned walls.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "A decorative plate is mounted on the wall. The scene is from an Indian Bollywood movie.",
+      "Time/Year context": "1955",
+      "Objects and Artifacts": "Decorative wall plate."
+    }
+  },
+  {
+    "image_path": "image2.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One female",
+      "Clothing and Accessories": "Green saree with an orange blouse, and red and white bangles.",
+      "Architecture and Environment": "The character is lying on a red surface, likely indoors on a traditional bed or mat.",
+      "Food and Eating Practices": "The woman is eating a light-colored food, possibly rice, from a metal bowl using her hand, which is a common eating practice in the region.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie, set in rural Uttar Pradesh.",
+      "Time/Year context": "1957, the year the film was released.",
+      "Objects and Artifacts": "A simple metal bowl (katori)."
+    }
+  },
+  {
+    "image_path": "image3.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female wears a white salwar kameez with embroidery, large traditional earrings (jhumkas), and bangles. The male wears a brown suede or corduroy jacket over a shirt.",
+      "Architecture and Environment": "An outdoor terrace or rooftop with a clear blue sky and potted plants in the background.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie.",
+      "Time/Year context": "Circa 1964, reflecting the fashion of the early 1960s.",
+      "Objects and Artifacts": "Potted plants."
+    }
+  },
+  {
+    "image_path": "image4.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male is dressed in an all-white outfit (shirt and trousers). The female wears a peach-colored saree and is holding a dark handbag. Her hairstyle is a bouffant, popular in the era.",
+      "Architecture and Environment": "A modern (for its time) indoor setting with a large window and what appears to be contemporary furniture.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie. A framed picture is on the wall.",
+      "Time/Year context": "Circa 1966, with fashion and interior design characteristic of the period.",
+      "Objects and Artifacts": "Handbag, modern furniture, framed picture."
+    }
+  },
+  {
+    "image_path": "image5.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male wears a light blue shirt, sunglasses, and a straw fedora, holding a clipboard. The female is dressed as a laborer in a yellow lehenga choli and is carrying a stone slab.",
+      "Architecture and Environment": "An outdoor construction site with bamboo scaffolding in the background.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie which dealt with socio-economic themes.",
+      "Time/Year context": "Circa 1974, reflecting the themes and styles of 1970s Bollywood.",
+      "Objects and Artifacts": "Clipboard, stone slab, construction scaffolding."
+    }
+  },
+  {
+    "image_path": "image6.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "Three males and one female in the foreground.",
+      "Clothing and Accessories": "One man wears a green jacket. Another man, who appears to be portraying a religious figure, wears a black coat. A third man wears an embroidered kurta and a cap often associated with Muslim men (topi). The woman wears a yellow salwar kameez with her head covered by a dupatta.",
+      "Architecture and Environment": "A hospital ward with multiple beds covered in striped sheets.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "The attire of one man may suggest he is portraying a Muslim character. The film from which this scene is taken has a central theme of inter-religious harmony between Hindus, Muslims, and Christians.",
+      "Time/Year context": "Circa 1977, the year the film was released.",
+      "Objects and Artifacts": "Hospital beds."
+    }
+  },
+  {
+    "image_path": "image7.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female wears a yellow and white checkered sweatshirt and white pants. The male wears a jacket and a bucket hat.",
+      "Architecture and Environment": "A beach, with the ocean and a surfer visible in the background.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None visible.",
+      "Art and Music": "The scene is from a Bollywood movie. Surfing is depicted as a recreational activity.",
+      "Time/Year context": "Circa 1987, with clothing styles typical of the late 1980s.",
+      "Objects and Artifacts": "Surfboard (in the background)."
+    }
+  },
+  {
+    "image_path": "image8.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female wears a peach-colored satin top, a pearl necklace, and gold earrings. The male wears a light-colored suit jacket, a white shirt, and a loosely worn striped tie.",
+      "Architecture and Environment": "Indoor setting with a wooden paneled wall or headboard in the background.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None visible.",
+      "Art and Music": "The scene is from an Indian Bollywood movie.",
+      "Time/Year context": "Circa 1983",
+      "Objects and Artifacts": "Pearl necklace."
+    }
+  },
+  {
+    "image_path": "image9.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female has short hair and wears a denim jacket. The male wears a colorful printed shirt, a silver-colored chain necklace with the word 'COOL', and backpack straps are visible.",
+      "Architecture and Environment": "Indoors, likely a college setting, with a blue wall that has notices or posters on it.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood musical romantic comedy.",
+      "Time/Year context": "Circa 1998, with fashion and accessories being strongly representative of late 1990s youth culture in India.",
+      "Objects and Artifacts": "'COOL' necklace, backpack, posters."
+    }
+  },
+  {
+    "image_path": "image10.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male character wears a white button-down shirt and has a patterned shawl draped over his shoulder. The female character wears a colorful patchwork-style tunic in shades of red, orange, and green.",
+      "Architecture and Environment": "An indoor kitchen or pantry space, with shelves stocked with metal kitchen canisters in the background.",
+      "Food and Eating Practices": "The setting is a kitchen, suggesting food preparation, but no active eating is shown.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a highly successful musical Bollywood movie.",
+      "Time/Year context": "Circa 1994, with the fashion and hairstyles being characteristic of the 1990s in India.",
+      "Objects and Artifacts": "Metal kitchen canisters, a patterned shawl."
+    }
+  },
+  {
+    "image_path": "image11.png",
+    "annotations": {
+      "Geography/Region": "South Asia, India",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female character is wearing a printed, sleeveless halter-neck top. The male character is dressed in all black, including a high-neck shirt, and is wearing a watch.",
+      "Architecture and Environment": "A modern, dimly lit, and sleek indoor setting, likely a luxurious office or apartment.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood thriller movie.",
+      "Time/Year context": "Circa 2008, reflecting the contemporary fashion and cinematic style of the late 2000s.",
+      "Objects and Artifacts": "Wristwatch, modern leather furniture."
+    }
+  },
+  {
+    "image_path": "image12.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India (representing the fictional hill station of Kasauli).",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The male character wears glasses, a patterned shirt under a navy blue sweater vest, and jeans. The female character wears a bright blue and silver embroidered salwar kameez.",
+      "Architecture and Environment": "A scenic outdoor location in a mountainous region, with pine trees, rocks, and foliage.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood science-fiction movie, likely part of a song sequence.",
+      "Time/Year context": "Circa 2003, the release year of the film.",
+      "Objects and Artifacts": "Eyeglasses."
+    }
+  },
+  {
+    "image_path": "image13.jpg",
+    "annotations": {
+      "Geography/Region": "European setting (the film was shot in Spain), within the context of an Indian Bollywood movie.",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female character wears a short-sleeved white dress with a belt and carries a handbag. The male character wears a black V-neck sweater over a red collared shirt.",
+      "Architecture and Environment": "An outdoor pedestrian street at night, illuminated by decorative overhead lights.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie. The decorative lights contribute to the artistic feel of the scene.",
+      "Time/Year context": "Circa 2011, featuring contemporary casual fashion.",
+      "Objects and Artifacts": "Handbag, decorative streetlights."
+    }
+  },
+  {
+    "image_path": "image14.jpg",
+    "annotations": {
+      "Geography/Region": "South Asia, India (set in the hill station of Coonoor).",
+      "Gender": "One male, one female",
+      "Clothing and Accessories": "The female character is wearing a patterned sundress with a light blue, open button-down shirt over it. The male character wears a simple blue V-neck T-shirt. Both appear to be wearing simple wristbands.",
+      "Architecture and Environment": "A lush green outdoor park or garden, with trees and a stone structure in the background.",
+      "Food and Eating Practices": "None visible.",
+      "Religion": "None explicitly visible.",
+      "Art and Music": "The scene is from a Bollywood movie.",
+      "Time/Year context": "Circa 2016, with casual fashion representative of the mid-2010s.",
+      "Objects and Artifacts": "Wristbands."
+    }
+  }
+]
